@@ -16,7 +16,7 @@ terraform {
     organization = "jtomk0"
 
     workspaces {
-      name = "sentinel-example"
+      name = "tfc-guide-example"
     }
   }
 
